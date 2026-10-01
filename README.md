@@ -1,4 +1,7 @@
-<p align="center"> <img src="https://www.image2url.com/r2/default/images/1790666467966-67e0a655-0c81-4c3b-9cd3-6f0eadd8c7c7.png" weidth=300 height=300> </p>
+<p align="center"> ${ \space \space \color{#B5551F
+  } 𝔜𝔬𝔲 \space  \space 𝔠𝔞𝔫 \space \color{#D9794A} \space 𝔩𝔢𝔞𝔯𝔫 \space \color{#D9794A} \space 𝔞𝔩𝔬𝔱 \space \space  𝔣𝔯𝔬𝔪 \space \space 𝔰𝔬𝔪𝔢𝔬𝔫𝔢 \color{#B5551F} \space. 𝔶𝔬𝔲 𝔥𝔞𝔱𝔢 {}}$
+
+<p align="center"> <img src="https://www.image2url.com/r2/default/images/1790841238056-59b26fb9-9774-41ed-89de-ef6b9f49adee.jpeg" weidth=300 height=300> </p>
 
 
 <p align="center"> ${ \space \space \color{#B5551F
