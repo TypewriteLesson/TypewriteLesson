@@ -1,5 +1,4 @@
-<p align="center"> ${ \space \space \color{#B5551F
-  } 𝔜𝔬𝔲 \space  \space 𝔠𝔞𝔫 \space \color{#D9794A} \space 𝔩𝔢𝔞𝔯𝔫 \space \color{#D9794A} \space 𝔞𝔩𝔬𝔱 \space \space  𝔣𝔯𝔬𝔪 \space \space 𝔰𝔬𝔪𝔢𝔬𝔫𝔢 \color{#B5551F} \space 𝔶𝔬𝔲 \space 𝔥𝔞𝔱𝔢 {}}$
+<p align="center"> ${ \space \space \color{#512888} 𝔜𝔬𝔲 \space  \space \color{#493F85} 𝔠𝔞𝔫 \space \color{#405682} \space 𝔩𝔢𝔞𝔯𝔫 \space \color{#386D7F} \space 𝔞𝔩𝔬𝔱 \space \space \color{#493F85}  𝔣𝔯𝔬𝔪 \space \space 𝔰𝔬𝔪𝔢𝔬𝔫𝔢 \color{#512888} \space 𝔶𝔬𝔲 \space 𝔥𝔞𝔱𝔢 {}}$
 
 <p align="center"> <img src="https://www.image2url.com/r2/default/images/1790841238056-59b26fb9-9774-41ed-89de-ef6b9f49adee.jpeg" weidth=300 height=300> </p>
 
