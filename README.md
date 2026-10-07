@@ -1,12 +1,12 @@
 <p align="center"> ${ \space \space \color{#512888} 𝔜𝔬𝔲 \space  \space \color{#493F85} 𝔠𝔞𝔫 \space \color{#405682} \space 𝔩𝔢𝔞𝔯𝔫 \space \color{#386D7F} \space 𝔞𝔩𝔬𝔱 \space \space \color{#493F85}  𝔣𝔯𝔬𝔪 \space \space 𝔰𝔬𝔪𝔢𝔬𝔫𝔢 \color{#512888} \space 𝔶𝔬𝔲 \space 𝔥𝔞𝔱𝔢 {}}$
 
-<p align="center"> <img src="https://www.image2url.com/r2/default/images/1790841238056-59b26fb9-9774-41ed-89de-ef6b9f49adee.jpeg" weidth=300 height=300> </p>
+<p align="center"> <img src="https://cdn.phototourl.com/member/2026-10-07-06184fd6-abcc-486d-ade3-4454663d1810.jpg" weidth=300 height=300> </p>
 
 
 <p align="center"> ${ \space \space \color{#B5551F
   } 𝔗𝔥𝔦𝔰 \space  \space  𝔦𝔰 \space \color{#D9794A} \space my \space \color{#D9794A} \space 𝔱𝔦𝔪𝔢𝔶 \space \space 𝔴𝔦𝔪𝔢𝔶 \space \space 𝔡𝔢𝔱𝔞𝔠𝔱𝔬𝔯 \color{#B5551F} \space. ⋆ ˖ ⏱︎.ᐟ {}}$
 
-<p align="center"> <img src="https://www.image2url.com/r2/default/images/1790665668685-c03dbd0e-c52e-44f3-b0de-d879a7497543.jpg" alt="gog gaga" weidth=300 height=300> </p>
+<p align="center"> <img src="https://cdn.phototourl.com/member/2026-10-07-70da71cb-3ca3-409c-b29c-4ca06c1023c0.png" alt="gog gaga" weidth=300 height=300> </p>
 
 <div align="center"
   
