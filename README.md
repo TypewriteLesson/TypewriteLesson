@@ -1,4 +1,4 @@
-<p align="center"> ${ \space \space \color{#512888} 𝔜𝔬𝔲 \space  \space \color{#493F85} 𝔠𝔞𝔫 \space \color{#405682} \space 𝔩𝔢𝔞𝔯𝔫 \space \color{#386D7F} \space 𝔞𝔩𝔬𝔱 \space \space \color{#493F85}  𝔣𝔯𝔬𝔪 \space \space 𝔰𝔬𝔪𝔢𝔬𝔫𝔢 \color{#512888} \space 𝔶𝔬𝔲 \space 𝔥𝔞𝔱𝔢 {}}$
+<p align="center"> ${ \space \space {#386D7F} \space 𝓛𝓮𝔁 𝔁 𝓒𝓵𝓪𝓻𝓴 \space 𝓒𝓔𝓞 {}}$
 
 <p align="center"> <img src="https://cdn.phototourl.com/member/2026-10-07-06184fd6-abcc-486d-ade3-4454663d1810.jpg" weidth=300 height=300> </p>
 
