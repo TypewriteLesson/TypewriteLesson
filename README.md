@@ -1,4 +1,4 @@
-<p align="center"> ${ \space \space {#386D7F} \space 𝓛𝓮𝔁 𝔁 𝓒𝓵𝓪𝓻𝓴 \space 𝓒𝓔𝓞 {}}$
+<p align="center"> ${ \space \space {#386D7F} \space 𝓛𝓮𝔁 \space 𝓒𝓵𝓪𝓻𝓴 \space 𝓒𝓔𝓞 {}}$
 
 <p align="center"> <img src="https://cdn.phototourl.com/member/2026-10-07-06184fd6-abcc-486d-ade3-4454663d1810.jpg" weidth=300 height=300> </p>
 
