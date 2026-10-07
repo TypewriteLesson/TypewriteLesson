@@ -10,7 +10,7 @@
 
 <div align="center"
   
-[新](https://friedbrain.atabook.org/) [<sub>Straw</sub>](https://loveyourselfhoney.straw.page)
+[新](https://friedbrain.atabook.org/) [<sub>Straw</sub>](https://loveyourselfhoney.straw.page) [<sub>Pronouns</sub>](https://pronouns.cc/@Lonerdrunk.)
   
 </div>
 
